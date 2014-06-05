@@ -1,0 +1,8 @@
+Author: Brad Westfall
+Email: brad@azpixels.com
+Twitter: @bradwestfall
+
+Please feel free to use this project however you want.
+Note that the AJAX requests probably wont work unless you
+have a real web environment - refer to the cross origin 
+resources sharing policy of the W3C for more info.

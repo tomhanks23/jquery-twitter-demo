@@ -1,0 +1,6 @@
+{
+	"tweets":[
+		{"user_id": 3, "username": "Conan", "tweet": "I love Jay Leno!"},
+		{"user_id": 2, "username": "Paul Irish", "tweet": "Checkout my new video..."}
+	]
+}
